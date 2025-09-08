@@ -71,7 +71,7 @@ export const SKILLS_DATA = [
 export const PROJECTS_DATA = [
     {
         title: "Food Menu Landing-Page",
-        image: "/assets/Food-Menu-Landing-Page.png",
+        image: "./assets/Food-Menu-Landing-Page.png",
         description: "A responsive one-page app showcasing fruits for sale. Built with HTML5, CSS3 (animations, professional UI), and Bootstrap 5.",
         techStack: ["HTML5", "CSS3", "Bootstrap 5"],
         liveDemoUrl: "https://albarmajy.github.io/Food-Menu-Single-Page/",
@@ -79,7 +79,7 @@ export const PROJECTS_DATA = [
     },
     {
         title: "Professional Portfolio",
-        image: "/assets/professional-portfolio-with-multible-pages.png",
+        image: "./assets/professional-portfolio-with-multible-pages.png",
         description: "A clean, multi-page personal portfolio website template built with Bootstrap. Designed to be easily customizable for developers and creatives.",
         techStack: ["HTML5", "CSS3", "Bootstrap 5", "JavaScript"],
         liveDemoUrl: "https://albarmajy.github.io/SB-Personal/",
@@ -87,7 +87,7 @@ export const PROJECTS_DATA = [
     },
     {
         title: "Stylish Portfolio",
-        image: "/assets/Stylish-portfolio.png",
+        image: "./assets/Stylish-portfolio.png",
         description: "A modern and visually appealing single-page portfolio template. Perfect for photographers, designers, and artists to present their work in a clean format.",
         techStack: ["HTML5", "CSS3", "Bootstrap 5"],
         liveDemoUrl: "https://albarmajy.github.io/Stylish-Portfolio/",
@@ -95,7 +95,7 @@ export const PROJECTS_DATA = [
     },
     {
         title: "CreatiVibe",
-        image: "/assets/CreatiVibe.png",
+        image: "./assets/CreatiVibe.png",
         description: "A professional landing page for a modern co-working space. The design focuses on a clean aesthetic and clear calls-to-action to attract new members.",
         techStack: ["HTML5", "CSS3", "JavaScript"],
         liveDemoUrl: "https://albarmajy.github.io/CreatiVibe/",
@@ -103,7 +103,7 @@ export const PROJECTS_DATA = [
     },
     {
         title: "My Portfolio",
-        image: "/assets/my-portfolio.png",
+        image: "./assets/my-portfolio.png",
         description: "A single-page application portfolio built with React. This project demonstrates component-based architecture and a modern tech stack.",
         techStack: ["React", "TypeScript", "Tailwind CSS"],
         liveDemoUrl: "https://albarmajy.github.io/Portfolio/",
